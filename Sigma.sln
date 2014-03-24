@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sigma", "Sigma\Sigma\Sigma.csproj", "{F9221C63-3986-4E99-AEC7-FCFB60052770}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SigmaContent", "Sigma\SigmaContent\SigmaContent.contentproj", "{724C1CE9-07DD-4BDE-B5E8-DB2340A41307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9221C63-3986-4E99-AEC7-FCFB60052770}.Debug|x86.ActiveCfg = Debug|x86
+		{F9221C63-3986-4E99-AEC7-FCFB60052770}.Debug|x86.Build.0 = Debug|x86
+		{F9221C63-3986-4E99-AEC7-FCFB60052770}.Release|x86.ActiveCfg = Release|x86
+		{F9221C63-3986-4E99-AEC7-FCFB60052770}.Release|x86.Build.0 = Release|x86
+		{724C1CE9-07DD-4BDE-B5E8-DB2340A41307}.Debug|x86.ActiveCfg = Debug|x86
+		{724C1CE9-07DD-4BDE-B5E8-DB2340A41307}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
